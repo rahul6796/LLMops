@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = 'lmVW7hpv.Q1lsHB58FzdPlpWIAffAFlsZZIHr6u3n'
+API_KEY = 'add your api key'
 your_query = "What is Machine Learning"  # Replace this with your actual query payload
 
 url = 'https://payload.vextapp.com/hook/NL2933PKUA/catch/$(channel_token)'
